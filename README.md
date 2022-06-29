@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **React projects** 
 - 🌱 I’m currently learning **Next.JS and React Native** 
 - 🤝 I’m looking for help with **life** 
-- 👨‍💻 All of my projects are available at [github](github.com/Foxtrot47)
+- 👨‍💻 All of my projects are available at [github](https://github.com/Foxtrot47)
 - 💬 Ask me about **everything** 
 - 📫 How to reach me **jjneutron@outlook.com**
 - ⚡ Fun fact **Ithink I am funny**
