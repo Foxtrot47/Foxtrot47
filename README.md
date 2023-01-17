@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Joyal Jose aka Foxtrot47</h1>
 <h3 align="center">A Web Developer(Kinda)</h3>
 
-- 🔭 I’m currently working on **React projects** 
-- 🌱 I’m currently learning **Next.JS and React Native** 
-- 🤝 I’m looking for help with **life** 
+- 🔭 I’m currently working on **.NET projects** 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Foxtrot47)
 - 💬 Ask me about **everything** 
 - 📫 How to reach me **jjneutron@outlook.com**
-- ⚡ Fun fact **Ithink I am funny**
 
 <h3 align="left">Some stuff I know:</h3>
 
