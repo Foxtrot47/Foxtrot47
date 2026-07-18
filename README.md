@@ -2,9 +2,8 @@
 <h3 align="center">A Web Developer(Kinda)</h3>
 
 - 🔭 I’m currently working on **.NET projects** 
-- 👨‍💻 All of my projects are available at [github](https://github.com/Foxtrot47)
+- 👨‍💻 All of my projects are available at [github](https://github.com/Foxtrot47)https://github.com/Foxtrot47/Foxtrot47/blob/master/README.md
 - 💬 Ask me about **everything** 
-- 📫 How to reach me **jjneutron@outlook.com**
 
 <h3 align="left">Some stuff I know:</h3>
 
