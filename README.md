@@ -1,175 +1,30 @@
-<h1 align="center">Hi 👋, I'm Joyal Jose aka Foxtrot47</h1>
-<h3 align="center">A Web Developer(Kinda)</h3>
+<h1 align="center">Hi, I’m Joyal Jose.</h1>
 
-- 🔭 I’m currently working on **.NET projects** 
-- 👨‍💻 All of my projects are available at [github](https://github.com/Foxtrot47)https://github.com/Foxtrot47/Foxtrot47/blob/master/README.md
-- 💬 Ask me about **everything** 
+<p align="center">Also known as Foxtrot47.</p>
 
-<h3 align="left">Some stuff I know:</h3>
-
-<h4 align="left"><i>Languages</i></h4>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-<h4 align="left"><i>Frameworks and Libraries</i></h4>
-<p align="left">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-<h4 align="left"><i>Platforms and DB's</i></h4>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
-      alt="electron"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
+<p align="center">
+  <a href="https://foxtrot47.dev"><img src="https://img.shields.io/badge/foxtrot47.dev-d9824b?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Personal website" /></a>
+  <a href="https://x.com/_foxtrot47"><img src="https://img.shields.io/badge/X-%40_foxtrot47-d9824b?style=flat-square&logo=x&logoColor=white" alt="Foxtrot47 on X" /></a>
+  <a href="mailto:foxtrot47@duck.com"><img src="https://img.shields.io/badge/Email-foxtrot47-d9824b?style=flat-square&logo=gmail&logoColor=white" alt="Email Joyal Jose" /></a>
+  <img src="https://img.shields.io/badge/Discord-_foxtrot47-d9824b?style=flat-square&logo=discord&logoColor=white" alt="Discord: _foxtrot47" />
 </p>
 
-## Streak
+I work mostly on backend applications with .NET, with some React and WPF on the frontend.<br />
+In my own time, I tend to wander into graphics programming or tinker with the os till it breaks.
 
-<p href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Foxtrot47&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"
-  />
+## Things I use
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-191715?style=flat-square&logo=csharp&logoColor=d9824b" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-191715?style=flat-square&logo=dotnet&logoColor=d9824b" alt=".NET" />
+  <img src="https://img.shields.io/badge/SQL-191715?style=flat-square&logo=microsoftsqlserver&logoColor=d9824b" alt="SQL" />
+  <img src="https://img.shields.io/badge/React-191715?style=flat-square&logo=react&logoColor=d9824b" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-191715?style=flat-square&logo=typescript&logoColor=d9824b" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-191715?style=flat-square&logo=cplusplus&logoColor=d9824b" alt="C++" />
+  <img src="https://img.shields.io/badge/DirectX%2011-191715?style=flat-square&logo=windows11&logoColor=d9824b" alt="DirectX 11" />
+  <img src="https://img.shields.io/badge/HLSL-191715?style=flat-square&logo=windows&logoColor=d9824b" alt="HLSL" />
 </p>
+
+## Away from development
+
+I follow Motorsports ( F1, WRC, WEC),&nbsp;play RPGs and racing sims like LMU / ACC.
